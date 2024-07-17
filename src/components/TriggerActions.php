@@ -1,6 +1,6 @@
 <?php
 
-namespace {{vendor}}\{{package}}\components;
+namespace erd980941\todo\components;
 
 use Yii;
 use yii\base\BaseObject;
